@@ -1,0 +1,20 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jroge-uagrm/onboarding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jroge-uagrm/onboarding/issues"
+  },
+  "homepage": "https://github.com/jroge-uagrm/onboarding#readme"
+}
